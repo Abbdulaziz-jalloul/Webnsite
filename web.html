@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>cedarMALL - Your Shopping Destination</title>
+    <style>
+        /* Add your custom styles here */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+        }
+
+        section {
+            padding: 20px;
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>cedarMALL</h1>
+        <p>Your Shopping Destination</p>
+    </header>
+
+    <section>
+        <h2>Welcome to cedarMALL!</h2>
+        <p>Explore a wide range of products and enjoy a seamless shopping experience.</p>
+    </section>
+
+    <section>
+        <h2>Featured Products</h2>
+        <ul>
+            <li>Product 1</li>
+            <li>Product 2</li>
+            <li>Product 3</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 cedarMALL. All rights reserved.</p>
+    </footer>
+
+</body>
+
+</html>
